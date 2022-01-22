@@ -1,4 +1,6 @@
 baseURL = "https://gozette-mag.github.io/hugo"
+RelativeURLs=true
+CanonifyURLs=true
 title = "La Gozette de SITS"
 author = ""
 copyright = ""
