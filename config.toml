@@ -1,0 +1,50 @@
+baseURL = "https://gohugo.io/"
+title = "La Gozette de SITS"
+author = ""
+copyright = ""
+paginate = 3
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+disqusShortname = "the-world-as-a-stage"
+
+theme = "casper3"
+
+[params]
+  # facebook = "https://facebook.com"
+  # twitter = "https://twitter.com"
+  # github = "https://github.com/jonathanjanssens"
+  description = "La gozette"
+  mainSections = ["posts"]
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "numeros"
+    name = "Numéros"
+    url = "/numeros/"
+    weight = 8
+
+  [[menu.main]]
+    identifier = "contributors"
+    name = "Contributeurs"
+    url = "/authors/"
+    weight = 9
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  numeros = "numeros"
+  author = "author"
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+  [services.twitter]
+    disableInlineCSS = true
