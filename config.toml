@@ -1,4 +1,4 @@
-baseURL = "https://gozette-mag.github.io/hugo"
+baseURL = "https://weidago.github.io/gozette"
 RelativeURLs=true
 CanonifyURLs=true
 title = "La Gozette de SITS"
@@ -9,7 +9,7 @@ languageCode = "fr"
 DefaultContentLanguage = "fr"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-disqusShortname = "the-world-as-a-stage"
+disqusShortname = ""
 
 theme = "casper3"
 
