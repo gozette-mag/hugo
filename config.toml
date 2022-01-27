@@ -1,7 +1,7 @@
 baseURL = "https://weidago.github.io/gozette"
 RelativeURLs=true
 CanonifyURLs=true
-title = "La Gozette de SITS"
+title = "La Gozette du senté"
 author = ""
 copyright = ""
 paginate = 3
