@@ -42,7 +42,7 @@ theme = "casper3"
 [taxonomies]
   category = "categories"
   tag = "tags"
-  numeros = "numeros"
+  numero = "numeros"
   author = "author"
 
 [services]
