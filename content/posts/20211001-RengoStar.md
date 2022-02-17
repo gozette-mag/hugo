@@ -28,3 +28,5 @@ Et vous auriez raison, bande de joueurs de go. Mais continuons notre dispense d�
 
 Chaque cycle propose à chaque équipe de deux joueurs trois parties à jouer en trois mois. Ainsi, le premier volet de notre saga monumentale se terminera le 9 janvier 2022 et vous pourrez alors vous inscrire pour un second cycle qui se déroulera très certainement selon des modalités similaires. 
 Pour ce qui est de la question sur les céréales, une étude de grande envergure randomisée en double aveugle a été menée par nos experts. N’en doutez point, le résultat est édifiant : vous êtes 8 à mettre les céréales avant le lait, 5 à les mettre après et seulement deux cyborgs multitâches qui parviennent à tout mettre en même temps.
+
+![RengoStar](https://i.imgur.com/jdSEXQ8.jpg)
