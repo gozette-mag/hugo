@@ -2,7 +2,7 @@
 title: Masterclass - Permis de réduire
 date: 2021-09-07
 lastmod: 2021-09-07
-author: Lucas Neirynck
+author: ryoka - Alexandre Ferrer
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 feature_image: /img/cover.jpg
@@ -18,7 +18,7 @@ numeros:
 draft: false
 ---
 
-une Masterclass avec Lucas Neirynck a été publiée sur la chaîne youtube du club et comme je suis extrêmement sympa je vous en donne le lien afin que vous n’ayez pas à chercher, bande de flemmards !
+Une Masterclass avec Lucas Neirynck a été publiée sur la chaîne youtube du club et comme je suis extrêmement sympa je vous en donne le lien afin que vous n’ayez pas à chercher, bande de flemmards !
 
 <!-- more-->
 
