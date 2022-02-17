@@ -7,4 +7,4 @@ author: Gozette
 feature_image: "/img/cover.jpg"
 ---
 
-La Gozette est le journal qui parle de Go
+La Gozette est un journal qui parle de Go. 
