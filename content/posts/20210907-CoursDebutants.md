@@ -5,7 +5,7 @@ lastmod: 2021-09-07
 author: Ryoka
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-feature_image: /img/cover.jpg
+feature_image: https://i.imgur.com/visDRdN.png
 # images:
 #   - /img/cover.jpg
 categories:
