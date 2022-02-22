@@ -26,13 +26,13 @@ theme = "casper3"
     identifier = "numeros"
     name = "Numéros"
     url = "/numeros/"
-    weight = 7
+    weight = 8
 
   [[menu.main]]
     identifier = "dossiers"
     name = "Dossiers"
     url = "/categories/dossier/"
-    weight = 8
+    weight = 7
 
   [[menu.main]]
     identifier = "contributors"
