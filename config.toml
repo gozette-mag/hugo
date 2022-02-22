@@ -1,4 +1,4 @@
-baseURL = "https://gozette.fr"
+baseURL = "https://weidago.github.io/gozette"
 RelativeURLs=true
 CanonifyURLs=true
 title = "La Gozette du senté"
