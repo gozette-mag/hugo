@@ -1,11 +1,11 @@
 ---
-title: Rengo Star : Bilan du premier cycle
-date: 2022-01-22
-author: Popyaitte
-feature_image: https://i.imgur.com/KK3I7Oo.jpg
+title: Ma Jolie démo a Ryoka
+date: 2022-02-16
+author: Ryoka
+feature_image: https://i.imgur.com/Ial4KGX.png?width=1042&height=1042
 tags:
-  - rengostar
-  - rengo
+  - demo
+  - tutoriel
 numeros: 
   - 3
 draft: false
