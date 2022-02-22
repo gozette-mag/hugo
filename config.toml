@@ -21,17 +21,12 @@ theme = "casper3"
   mainSections = ["posts"]
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
 
   [[menu.main]]
     identifier = "numeros"
     name = "Numéros"
     url = "/numeros/"
-    weight = 8
+    weight = 7
 
   [[menu.main]]
     identifier = "dossiers"
@@ -44,6 +39,12 @@ theme = "casper3"
     name = "Contributeurs"
     url = "/author/"
     weight = 9
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
 
 [taxonomies]
   category = "categories"
