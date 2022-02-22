@@ -1,5 +1,5 @@
 ---
-title: Rengo Star : Bilan du premier cycle
+title: Rengo Star - Bilan du premier cycle
 date: 2022-01-22
 author: Popyaitte
 feature_image: https://i.imgur.com/KK3I7Oo.jpg
