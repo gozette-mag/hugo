@@ -9,7 +9,7 @@ languageCode = "fr"
 DefaultContentLanguage = "fr"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
-disqusShortname = ""
+disqusShortname = "gozette"
 
 theme = "casper3"
 
