@@ -1,4 +1,4 @@
-baseURL = "https://weidago.github.io/gozette"
+baseURL = "https://gozette.fr"
 RelativeURLs=true
 CanonifyURLs=true
 title = "La Gozette du senté"
@@ -31,6 +31,12 @@ theme = "casper3"
     identifier = "numeros"
     name = "Numéros"
     url = "/numeros/"
+    weight = 8
+
+  [[menu.main]]
+    identifier = "dossiers"
+    name = "Dossiers"
+    url = "/categories/dossier/"
     weight = 8
 
   [[menu.main]]
