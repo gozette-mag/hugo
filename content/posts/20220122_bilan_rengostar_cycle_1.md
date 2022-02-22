@@ -1,3 +1,16 @@
+---
+title: Rengo Star : Bilan du premier cycle
+date: 2022-01-22
+author: Popyaitte
+feature_image: https://i.imgur.com/KK3I7Oo.jpg
+tags:
+  - rengostar
+  - rengo
+numeros: 
+  - 3
+draft: false
+---
+
 Le jeu de go est magnifique, dirais-je pour entamer cet article sans prendre de risques. Ses règles simples ouvrent sur le plateau des possibilités aussi vastes qu'un univers. Mais leur apparente trivialité, permet aussi la création de variantes aussi amusantes que diverses.
 
 Face à ce constat, notre cher club a vu apparaître une nouvelle ligue au cours du mois d'octobre afin de mettre à l'honneur une célèbre déclinaison de notre jeu préféré : la Rengostar. Les plus mélomanes d'entre nous croiront peut-être qu'il s'agit là d'un batteur britannique de légende, et l'erreur est compréhensible. Mais étonnamment, c'est le nom d'une ligue de rengo : du go oui, mais par équipes de deux. 
