@@ -10,6 +10,7 @@ feature_image: /img/cover.jpg
 #   - /img/cover.jpg
 categories:
   - news
+  - dossier
 tags:
   - poesie
 numeros: 
