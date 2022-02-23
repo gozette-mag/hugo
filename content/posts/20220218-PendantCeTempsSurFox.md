@@ -24,4 +24,5 @@ Commençons par le point 4-5, celui-ci n'est pas trop étrange, il porte même u
 
 ![Takamoku](3-Takamoku.jpg)
 
-En toute logique on a envie de venir envahir ce coin bien trop ouvert mais pour autant les suites peuvent s'avérer très complexes.
+En toute logique on a envie de venir envahir ce coin bien trop ouvert mais pour autant les suites peuvent s'avérer très complexes. Historiquement on trouve sur SmartGo trois parties avec ces même 4 premières pierres et deux de ces trois parties ont été favorables au joueur commençant par les Takamoku.
+
