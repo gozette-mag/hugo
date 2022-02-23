@@ -18,6 +18,8 @@ numeros:
 draft: false
 ---
 
+<!-- more -->
+
 {{< game "/games/foxfun1.sgf" 5 >}}
 
 {{< ogs "41397912" 5 >}}
