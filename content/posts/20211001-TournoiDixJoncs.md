@@ -20,7 +20,7 @@ draft: false
 
 Quand je perds trop de parties et que la moutarde me monte au nez, je m’en vais interviewer les membres de notre club sur leur dernière sortie en date. Là, il s’agissait du tournoi de Dijon et cela nous permet d’en savoir un petit peu plus sur les pérégrinations de cinq d’entre nous. Ainsi, je leur ai aimablement proposé un petit questionnaire que je vais vous retranscrire ici afin de vous faire parvenir cet authentique retour d’expérience.
 
-<!-- more -->
+<!--more-->
 
 **ryoka :** Salut ! Je te propose de répondre à l’écrit à cette petite interview qui paraîtra dans le prochain numéro de la Gozette de notre club. L’objectif c’est de faire un petit retour d’expérience aux autres membres de notre club, notamment ceux qui ne sont (comme moi) jamais allés à un tournoi IRL.
 

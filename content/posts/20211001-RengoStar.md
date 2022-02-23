@@ -20,7 +20,7 @@ draft: false
 
 C’est officiel, la plus prestigieuse ligue de rengo du système solaire a été lancée (gare à l'atterrissage) le 6 octobre 2021 ! Mais où ? Quand ? Comment ? Pourquoi donc ? Les céréales avant ou après le lait ? Je le sais, beaucoup de questions vous assaillent et je vais tenter d’y répondre humblement (parce que je suis modeste malgré mes qualités indéniables) ici. 
 
-<!-- more -->
+<!--more-->
 
 Comme vous avez pu le constater avec le titre de l’article, parce que vous êtes de fins observateurs à l’esprit aussi affuté qu’une pierre de go en fin de parcours, le titre est Rengo Star. Et là vous vous dites : what the shell ?! Mais le jeu de mots est tout simplement dantesque ! Rien que pour ça, je vais m’y inscrire ! 
 

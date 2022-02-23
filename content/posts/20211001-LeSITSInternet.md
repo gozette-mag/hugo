@@ -20,7 +20,7 @@ draft: false
 
 Déjà parce qu’il me semble que je n’avais jamais fait ce jeu de mots et il manquait à mon palmarès, mais surtout pour que vous puissiez vous souvenir de temps en temps qu’il existe ! Il s’agit bien entendu de notre site internet officiel bien aimé organisé par Machyu.
 
-<!-- more -->
+<!--more-->
 
 [sits-go.org](https://sits-go.org/)
 
