@@ -1,9 +1,34 @@
 <!-- Activating a player using javascript -->
-<div id="{{(.Get 0)}}" style="width: 700px"></div>
+<div id="{{(.Get 0)}}"></div>
 <script type="text/javascript">
 var elem = document.getElementById({{(.Get 0)}});
 var player = new WGo.BasicPlayer(elem, {
     sgfFile: {{(.Get 0)}},
     move: {{(.Get 1)}}
 });
+// This is default layout of WGo Player
+WGo.BasicPlayer.dynamicLayout = [{
+  conditions: {
+    minWidth: 650,
+  },
+  layout: BasicPlayer.layouts["right_top"], 
+  className: "wgo-twocols wgo-large",
+}, {
+  conditions: {
+    minWidth: 550,
+    minHeight: 600,
+  },
+  layout: BasicPlayer.layouts["one_column"],
+  className: "wgo-medium"
+},{
+  conditions: {
+    minWidth: 350,
+  },
+  layout: BasicPlayer.layouts["no_comment"],
+  className: "wgo-small"
+},{
+  layout: BasicPlayer.layouts["no_comment"],
+  className: "wgo-xsmall",
+}];
+
 </script>
