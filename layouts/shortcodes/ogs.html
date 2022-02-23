@@ -1,0 +1,10 @@
+<!-- Activating a player using javascript -->
+<div id="{{(.Get 0)}}" style="width: 700px"></div>
+<script type="text/javascript">
+var elem = document.getElementById({{(.Get 0)}});
+var player = new WGo.BasicPlayer(elem, {
+    sgfFile: "https://online-go.com/api/v1/games/{{(.Get 0)}}/sgf",
+    move: {{(.Get 1)}}
+});
+</script>
+
