@@ -21,7 +21,7 @@ draft: false
 
 Ce mois-ci, pour son troisième numéro, la Gozette s'est faite une nouvelle beauté, elle s'est exilée en ligne sur ce blog et avec un nom de domaine tous neuf : gozette.fr
 
-Au dela d'être en ligne, la nouvelle gozette intègre plein de nouvelles fonctionalités présentées ici.
+Au dela d'être en ligne, la nouvelle gozette intègre plein de nouvelles fonctionalités présentées ici. Ah et pour l'anecdote, ce site internet est écrit avec le langage [GO](https://go.dev/), ça s'imposait!
 
 <!--more-->
 
