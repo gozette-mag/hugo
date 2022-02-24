@@ -9,9 +9,9 @@ feature_image: https://i.imgur.com/K9xLq4L.png
 # images:
 #   - /img/cover.jpg
 categories:
-  - 9x9
+  - DOSSIER
 tags:
-  - dossier
+  - 9x9
 numeros: 
   - 3
 mathjax: true

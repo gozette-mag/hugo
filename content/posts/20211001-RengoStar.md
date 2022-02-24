@@ -9,7 +9,7 @@ feature_image: https://i.imgur.com/jdSEXQ8.jpg
 # images:
 #   - /img/cover.jpg
 categories:
-  - news
+  - SITS
 tags:
   - rengo
 numeros: 

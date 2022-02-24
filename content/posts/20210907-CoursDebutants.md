@@ -9,7 +9,7 @@ feature_image: https://i.imgur.com/visDRdN.png
 # images:
 #   - /img/cover.jpg
 categories:
-  - news
+  - SITS
 tags:
   - DDK
 numeros: 

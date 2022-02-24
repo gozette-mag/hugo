@@ -21,6 +21,11 @@
                     {{ end }}
 
                     <h2 class="post-card-title">{{ .context.Title }}</h2>
+                        <div class="post-card-primary-tag">
+                                {{ range $index, $cat := .context.Params.categories }}                     
+                                    #{{$cat}}
+                                {{end}}
+                        </div>
                 </header>
     
                 <section class="post-card-excerpt">

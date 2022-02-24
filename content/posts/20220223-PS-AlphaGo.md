@@ -9,8 +9,7 @@ feature_image: https://i.imgur.com/OHy8o7I.jpg
 # images:
 #   - /img/cover.jpg
 categories:
-  - alphaGo
-  - dossier
+  - DOSSIER
 tags:
   - alphaGo
 numeros: 

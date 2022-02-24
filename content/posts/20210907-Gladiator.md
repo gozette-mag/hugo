@@ -9,7 +9,7 @@ feature_image: /img/cover.jpg
 # images:
 #   - /img/cover.jpg
 categories:
-  - news
+  - SITS
 tags:
   - Championat de France
 numeros: 
