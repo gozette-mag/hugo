@@ -35,15 +35,15 @@
             </a>
 
 
-        {{ if (not (.context.Param "no_author")) }}
             <footer class="post-card-meta">
+                {{$author_key := .context.Param "author"}}
+                {{ $author := false}}
+                {{if $author_key}}
+                    {{ $author = index .context.Site.Data.authors $author_key }}
+                {{end}}
+                {{ if (not (.context.Param "no_author")) }}
                     <ul class="author-list">
                         <li class="author-list-item">
-                            {{$author_key := .context.Param "author"}}
-                            {{ $author := false}}
-                            {{if $author_key}}
-                                {{ $author = index .context.Site.Data.authors $author_key }}
-                            {{end}}
                             {{ if $author }}
                                 <div class="author-name-tooltip">{{$author.name}} ({{ $author.nickname }})</div>
                                 {{ if $author.gravatar}}
@@ -57,17 +57,19 @@
                             {{ end }}
                         </li>
                     </ul>
+                    {{ end }}
                     <div class="post-card-byline-content">
+                        {{ if (not (.context.Param "no_author")) }}
                         {{ if $author }}
                             <span>{{$author.name}} ({{ $author.nickname }})</span>
                         {{ else }}
                             <span>{{ .context.Param "author" }}</span>
                         {{ end }}
+                        {{ end }}
                         <span class="post-card-byline-date"><time datetime="{{ .context.Date.Format "2006-31-01" }}">{{ .context.Date.Format "2 January 2006" }}</time>
                             <span class="bull">&bull;</span> {{ .context.ReadingTime }} min read</span>
                     </div>
                 </footer>
-            {{ end }}
         </div>
 
 </article>
