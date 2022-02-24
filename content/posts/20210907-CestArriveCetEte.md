@@ -9,7 +9,7 @@ feature_image: /img/cover.jpg
 # images:
 #   - /img/cover.jpg
 categories:
-  - ACTUALITE
+  - SITS
 tags:
   - Discord
   - TherapieGo
