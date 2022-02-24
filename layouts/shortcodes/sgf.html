@@ -1,0 +1,11 @@
+{{ $seed := "game" }}
+{{ $random := delimit (shuffle (split (md5 $seed) "" )) "" }}
+<!-- Activating a player using javascript -->
+<div id="{{(.Get 0)}}_move{{(.Get 1)}}_{{$random}}"></div>
+<script type="text/javascript">
+var elem = document.getElementById("{{(.Get 0)}}_move{{(.Get 1)}}_{{$random}}");
+var player = new WGo.BasicPlayer(elem, {
+    sgf: {{(.Get 0)}},
+    move: {{(.Get 1)}}
+});
+</script>
