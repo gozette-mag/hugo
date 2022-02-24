@@ -1,5 +1,5 @@
 ---
-title: Agora Fidelis : Hikaru, le film
+title: Agora Fidelis - Hikaru, le film
 date: 2022-02-24
 author: ryoka - Alexandre Ferrer
 feature_image: https://i.imgur.com/b8WBSQh.png
