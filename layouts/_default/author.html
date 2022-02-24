@@ -1,0 +1,78 @@
+{{ define "body_class" }} tag-template  {{ end }}
+
+{{ define "main" }}
+
+<header class="site-header">
+    {{- partial "site-header.html" $ -}}
+
+    {{- partial "header-background.html" $ -}}
+        <div class="inner site-header-content">
+            <h1 class="site-title">{{ .Title }}</h1>
+            <h2 class="site-description">
+                {{ if .Param "description" }}
+                    {{ .Param "description" }}
+                {{ else }}
+                    A collection of {{ len .Pages }} post{{ if gt (len .Pages) 1 }}s{{ end }}
+                {{ end }}
+            </h2>
+        </div>
+    </div>
+</header>
+
+<main id="site-main" class="site-main outer">
+    <div class="inner posts">
+        <div class="post-feed">
+            {{ range $index, $element := .Pages }}
+              {{ $author := index .Site.Data.authors .Title }}
+              <article class="post-card post
+{{ if (eq (mod $index 6) 0) }} post-card-large {{ end }}">
+            <a class="post-card-image-link" href="{{ .Permalink }}">
+               {{ if $author.avatar }}
+                <img class="post-card-image"src="{{ $author.avatar }}" alt="{{ .Title }}"/>
+                {{ else }}
+                <img class="post-card-image"src="/img/cover.jpg" alt="{{ .Title }}"/>
+                {{ end }}
+            </a>
+        
+              <div class="post-card-content">
+                  
+                          <a class="post-card-content-link" href="{{ .Permalink }}">
+                  
+                              <header class="post-card-header">
+                                  {{ with .Params.numeros }}
+                                      {{ $primaryNumero := (index . 0) }}
+                                      <div class="post-card-primary-tag">Gozette {{ $primaryNumero }}</div>
+                                  {{ end }}
+
+                                  {{ if $author }}
+                                    <h2 class="post-card-title">{{$author.name}} ({{ $author.nickname }})</h2>
+                                  {{ else }}
+                                    <h2 class="post-card-title">{{ .Title }}</h2>
+                                  {{ end }}
+                                      <div class="post-card-primary-tag">
+                                              {{ range $index, $cat := .Params.categories }}                     
+                                                  #{{$cat}}
+                                              {{end}}
+                                      </div>
+                              </header>
+                  
+                              <section class="post-card-excerpt">
+                                  <p>{{ .Summary }}</p>
+                              </section>
+                  
+                          </a>
+
+
+
+
+
+                  
+                      </div>
+  </article>
+
+            {{ end }}
+        </div>
+    </div>
+</main>
+
+{{ end }}

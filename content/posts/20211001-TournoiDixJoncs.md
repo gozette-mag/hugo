@@ -2,7 +2,7 @@
 title: Le tournoi des dix joncs
 date: 2021-10-01
 lastmod: 2021-10-01
-author: ryoka - Alexandre Ferrer
+author: ryoka
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 feature_image: /img/cover.jpg

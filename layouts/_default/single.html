@@ -42,9 +42,15 @@
                             {{- partial "post-author.html" . -}}
                         {{ end }}
 
+
                         <section class="post-full-byline-meta">
                             {{ if .Param "author" }}
-                                <h4 class="author-name">{{ .Param "author" }}</h4>
+                                {{ $author := index .Site.Data.authors .Params.author }}
+                                {{ if $author }}
+                                    <h4 class="author-name">{{$author.name}} ({{ $author.nickname }})</h4>
+                                {{ else }}
+                                    <h4 class="author-name">{{ .Param "author" }}</h4>
+                                {{ end }}
                             {{ end }}
                             <div class="byline-meta-content">
                                 <time class="byline-meta-date" datetime="{{.Date.Format "2006-31-01"}}">{{.Date.Format "2 January 2006"}}</time>

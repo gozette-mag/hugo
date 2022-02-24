@@ -2,7 +2,7 @@
 title: Rengo Star
 date: 2021-10-01
 lastmod: 2021-10-01
-author: ryoka - Alexandre Ferrer
+author: ryoka
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 feature_image: https://i.imgur.com/jdSEXQ8.jpg

@@ -1,0 +1,23 @@
+{{ $author := index .Site.Data.authors .Params.author }}
+<ul class="author-list">
+    <li class="author-list-item">
+        <div class="author-card">
+            {{ if $author.avatar }}
+                <div class="author-profile-image"><img src="{{$author.avatar}}"/></div>
+            {{ else }}
+                <div class="author-profile-image">{{- partial "icons/avatar.html" -}}</div>
+            {{ end }}
+            <div class="author-info">
+                <div class="author-info">
+                    <h2>{{ .Param "author" }}</h2>
+                </div>
+            </div>
+          }
+        </div>
+          {{ if $author.avatar }}
+             <a href="#" class="author-avatar author-profile-image"><img src="{{$author.avatar}}"/></a>
+          {{ else }}
+              <a href="#" class="author-avatar author-profile-image">{{- partial "icons/avatar.html" -}}</a>
+          {{ end }}
+    </li>
+</ul>

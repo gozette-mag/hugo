@@ -2,7 +2,7 @@
 title: La nouvelle Gozette et ses fonctionalités
 date: 2022-02-24
 lastmod: 2022-02-24
-author: Nicotupe
+author: nicotupe
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 feature_image: /img/cover.jpg
@@ -21,9 +21,12 @@ draft: false
 
 Ce mois-ci, pour son troisième numéro, la Gozette s'est faite une nouvelle beauté, elle s'est exilée en ligne sur ce blog et avec un nom de domaine tous neuf : gozette.fr
 
-Au dela d'être en ligne, la nouvelle gozette intègre plein de nouvelles fonctionalités présentées ici. Ah et pour l'anecdote, ce site internet est écrit avec le langage [GO](https://go.dev/), ça s'imposait!
+Au dela d'être en ligne, la nouvelle gozette intègre plein de nouvelles fonctionalités présentées ici. 
 
 <!--more-->
+
+Ah et pour l'anecdote, ce site internet est écrit avec le langage [GO](https://go.dev/), ça s'imposait!
+
 
 ## Markdown
 

@@ -1,7 +1,7 @@
 ---
 title: Pendant ce temps sur Fox
 date: 2022-02-18
-author: Nicotupe
+author: nicotupe
 feature_image: https://i.imgur.com/D4bNdyI.png
 categories:
   - HUMOUR

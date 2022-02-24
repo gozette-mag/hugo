@@ -2,7 +2,7 @@
 title: Une vue du 9x9
 date: 2022-02-24
 lastmod: 2022-02-24
-author: Nicotupe
+author: nicotupe
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 feature_image: https://i.imgur.com/K9xLq4L.png

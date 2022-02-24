@@ -2,7 +2,7 @@
 title: PodcastScience - Alpha Go
 date: 2022-02-24
 lastmod: 2022-02-24
-author: Nicotupe
+author: nicotupe
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 feature_image: https://i.imgur.com/OHy8o7I.jpg

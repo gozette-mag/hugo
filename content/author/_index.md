@@ -1,3 +1,4 @@
 ---
 title: "Contributeurs"
+layout: "author"
 ---
