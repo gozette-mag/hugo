@@ -12,6 +12,8 @@ draft: false
 
 Depuis plusieurs mois maintenant, je joue régulièrement au Go sur le server actuellement le plus populaire au monde : FOX. Tous ceux qui se sont déjà connectés sur ce server le savent, le stype de jeu y est très particulier. Certains en ont peur, d'autres en sont amusés et d'autres, comme moi, aiment bien ce mode de jeu dynamique et qui ose tout.
 
+<!--more-->
+
 En effet, s'il y a bien une caractéristique de FOX c'est qu'on y voit beaucoup plus de variétés dans les coups. En particulier, tout le monde connait les traditionnels débuts de partie et autres Joseki. Le site internet [OGS](https://online-go.com/joseki/15081) l'illustre d'ailleurs parfaitement : on a l'impression qu'il n'existe qu'une dizaine d'endroits où commencer une partie.
 
 ![Imgur](https://i.imgur.com/KNwTKJf.png)
