@@ -4,8 +4,8 @@ date: 2022-01-24
 author: Babacar Misaeng 
 feature_image: https://i.imgur.com/of2yHre.png
 tags:
-  - tag1
-  - tag2
+  - IA
+  - Alphago
 numeros: 
   - 3
 draft: false
