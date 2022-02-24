@@ -3,6 +3,8 @@ title: Thinking outside the Goban
 date: 2022-01-24
 author: Babacar Misaeng 
 feature_image: https://i.imgur.com/of2yHre.png
+categories:
+  - DOSSIER
 tags:
   - IA
   - Alphago
