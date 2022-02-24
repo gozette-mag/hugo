@@ -2,7 +2,7 @@
 title: Cours débutants - permanence et agrandissement de l’équipe
 date: 2021-09-07
 lastmod: 2021-09-07
-author: Ryoka
+author: ryoka - Alexandre Ferrer
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 feature_image: https://i.imgur.com/visDRdN.png
