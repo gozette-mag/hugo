@@ -35,8 +35,7 @@
             </a>
 
 
-
-
+        {{ if (not (.context.Param "no_author")) }}
             <footer class="post-card-meta">
                     <ul class="author-list">
                         <li class="author-list-item">
@@ -68,7 +67,7 @@
                             <span class="bull">&bull;</span> {{ .context.ReadingTime }} min read</span>
                     </div>
                 </footer>
-    
+            {{ end }}
         </div>
 
 </article>

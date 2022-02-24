@@ -1,6 +1,7 @@
 ---
-title: "Numéro 1, Sept 2021"
+title: "Numéro 1"
 feature_image: /img/cover.jpg
+no_author: true
 ---
 
 Bonjour à toutes et à tous, vous en avez rêvé (si si, nous le savons, nos sources sont fiables à ce sujet), vous avez osé essayé de tenter de l’imaginer dans vos fantasmes les plus fous et le voilà : le journal de votre club tente une invasion au san-san pour se faire une place dans votre vie.

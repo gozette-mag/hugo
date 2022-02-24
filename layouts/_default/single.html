@@ -13,13 +13,14 @@
 
             <header class="post-full-header">
 
-
+                {{ if .Params.categories }}
                     <section class="post-full-tags">
                 {{ range $index, $cat := .Params.categories }}      
                     <a style="margin: 2px !important" href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}">{{ $cat }}</a>
                 {{end}}
                     </section>
-
+                {{ end }}
+                    {{ if .Params.tags }}
                     <section class="post-full-tags">
                         <small>
                             Tags : 
@@ -28,7 +29,7 @@
                                 {{end}}
                         </small>
                     </section>
-
+                    {{ end }}
                 <h1 class="post-full-title">{{ .Title }}</h1>
 
                 {{ if .Param "summary" }}
@@ -38,10 +39,10 @@
                 <div class="post-full-byline">
                     <section class="post-full-byline-content">
 
-                        {{ if .Param "author" }}
-                            {{- partial "post-author.html" . -}}
-                        {{ end }}
-
+                        {{ if (not (.Param "no_author"))}}
+                            {{ if .Param "author" }}
+                                {{- partial "post-author.html" . -}}
+                            {{ end }}
 
                         <section class="post-full-byline-meta">
                             {{ if .Param "author" }}
@@ -57,6 +58,7 @@
                                 <span class="byline-reading-time"><span class="bull">&bull;</span> {{ .ReadingTime }} min read</span>
                             </div>
                         </section>
+                        {{ end }}
 
                     </section>
 
