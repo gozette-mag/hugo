@@ -13,12 +13,21 @@
 
             <header class="post-full-header">
 
-                {{ with .Params.tags }}
-                    {{ $primaryTag := (index . 0) }}
+
                     <section class="post-full-tags">
-                        <a href="{{ "/tags/" | relLangURL }}{{ $primaryTag | urlize }}">{{ $primaryTag }}</a>
+                {{ range $index, $cat := .Params.categories }}      
+                    <a style="margin: 2px !important" href="{{ "/categories/" | relLangURL }}{{ $cat | urlize }}">{{ $cat }}</a>
+                {{end}}
                     </section>
-                {{ end }}
+
+                    <section class="post-full-tags">
+                        <small>
+                            Tags : 
+                                {{ range $index, $tag := .Params.tags }}      
+                                    <a style="margin: 1px !important" href="{{ "/tags/" | relLangURL }}{{ $tag | urlize }}">{{ $tag }}</a>
+                                {{end}}
+                        </small>
+                    </section>
 
                 <h1 class="post-full-title">{{ .Title }}</h1>
 
