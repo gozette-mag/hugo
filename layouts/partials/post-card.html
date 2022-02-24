@@ -47,8 +47,8 @@
                             {{end}}
                             {{ if $author }}
                                 <div class="author-name-tooltip">{{$author.name}} ({{ $author.nickname }})</div>
-                                {{ if $author.avatar}}
-                                    <a href="#" class="static-avatar author-profile-image"><img src="{{$author.avatar}}"/></a>
+                                {{ if $author.gravatar}}
+                                    <a href="#" class="static-avatar author-profile-image"><img src="https://www.gravatar.com/avatar/{{ md5 $author.gravatar}}?s=400&d=identicon"/></a>
                                 {{ else }}
                                     <a href="#" class="static-avatar author-profile-image">{{- partial "icons/avatar.html" -}}</a>
                                 {{ end }}

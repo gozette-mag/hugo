@@ -2,8 +2,8 @@
 <ul class="author-list">
     <li class="author-list-item">
         <div class="author-card">
-            {{ if $author.avatar }}
-                <div class="author-profile-image"><img src="{{$author.avatar}}"/></div>
+            {{ if $author.gravatar }}
+                <div class="author-profile-image"><img src="https://www.gravatar.com/avatar/{{ md5 $author.gravatar}}?s=100&d=identicon"/></div>
             {{ else }}
                 <div class="author-profile-image">{{- partial "icons/avatar.html" -}}</div>
             {{ end }}
@@ -14,8 +14,8 @@
             </div>
           }
         </div>
-          {{ if $author.avatar }}
-             <a href="#" class="author-avatar author-profile-image"><img src="{{$author.avatar}}"/></a>
+          {{ if $author.gravatar }}
+             <a href="#" class="author-avatar author-profile-image"><img src="https://www.gravatar.com/avatar/{{ md5 $author.gravatar}}?s=400&d=identicon"/></a>
           {{ else }}
               <a href="#" class="author-avatar author-profile-image">{{- partial "icons/avatar.html" -}}</a>
           {{ end }}
