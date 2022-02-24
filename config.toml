@@ -42,7 +42,7 @@ theme = "casper3"
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "A Propos"
     url = "/about/"
     weight = 10
 
