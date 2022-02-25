@@ -1,6 +1,6 @@
 ---
 title: "Numéro 1"
-feature_image: https://i.imgur.com/ByQCBNb.png
+feature_image: https://i.imgur.com/ZTgEwf4.jpg
 no_author: true
 ---
 
