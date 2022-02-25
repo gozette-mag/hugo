@@ -1,7 +1,7 @@
 ---
 title: La nouvelle Gozette et ses fonctionalités
-date: 2022-02-25
-lastmod: 2022-02-25
+date: 2022-02-24
+lastmod: 2022-02-24
 author: nicotupe
 # avatar: /img/author.jpg
 # authorlink: https://author.site
