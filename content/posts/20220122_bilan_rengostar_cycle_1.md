@@ -22,4 +22,8 @@ Dans le groupe B, l'équipe des Pangolins a également gagné toutes ses parties
 Et pour finir, dans le groupe A, la bien nommée équipe Rengo a survolé ce premier cycle comme si ce n'était qu'un jeu d'enfant, au grand dam des autres équipes de leur groupe. Pour eux c'était facile... Ou du moins c'est l'impression qu'ils donnent.
 
 Une petite déception tout de même, l'arrivée toujours surprenante des fêtes de fin d'année a empêché quelques parties d'être jouées. Mais ce n'était qu'une première édition, et la suivante arrive très bientôt ! Alors restez aux aguets pour rejoindre la Rengostar. Et pour celles et ceux qui ne seraient toujours pas convaincus : la ligue est ouverte à toutes et tous (membres ou non), alors n'hésitez pas à vous y mettre avec votre sœur, votre voisin ou votre boulanger, c'est l'occasion rêvée !
+
 Popyaitte
+
+
+Crédit image pour les illustrations : Nadège FP (Instagram @elissakarminakria)
