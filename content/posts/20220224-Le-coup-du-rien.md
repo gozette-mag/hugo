@@ -35,3 +35,5 @@ Alexandre Ferrer
 
 
 Extrait du roman à paraître "La magie des pierres".
+
+Crédit image pour les illustrations : Nadège FP (Instagram @elissakarminakria)
