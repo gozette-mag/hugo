@@ -27,6 +27,9 @@
     <script type="text/javascript" src="/js/wgo/wgo.player.min.js"></script>
     <link type="text/css" href="/js/wgo/wgo.player.css" rel="stylesheet" />
     <link type="text/css" href="/css/custom.css" rel="stylesheet" />
+<!-- MermaidJS support -->
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.14.0/mermaid.min.js"></script>
+
     {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
 </head>
 <body class="{{ block "body_class" . }} {{ end }}">
