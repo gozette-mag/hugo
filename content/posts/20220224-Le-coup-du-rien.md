@@ -31,3 +31,7 @@ L'océan du goban, n'a jamais été plat
 J'ai choisi mon arcane et je joue un keima
 
 Alexandre Ferrer
+
+
+
+Extrait du roman à paraître "La magie des pierres".
