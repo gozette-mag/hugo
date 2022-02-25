@@ -18,3 +18,5 @@ Une adaptation Netflix du célèbre manga Hikaru no Go serait selon nos informat
 
 
 Disclamer : Ceci est un contenu parodique à visée humoristique. Parce que j'aime l'humour, même si lui ne semble pas m'aimer. 
+
+Crédit image pour les illustrations : Nadège FP (Instagram @elissakarminakria)
