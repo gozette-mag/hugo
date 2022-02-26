@@ -20,13 +20,16 @@
                     {{ end }}
 
                     <h2 class="post-card-title">{{ .context.Title }}</h2>
-                        <div class="post-card-primary-tag">
-                                {{ range $index, $cat := .context.Params.categories }}                     
-                                    #{{$cat}}
-                                {{end}}
-                        </div>
-                        <span class="disqus-comment-count" data-disqus-url="{{ .context.Permalink }}"></span>
-
+                    <div class="post-card-primary-tag">
+                        {{ range $index, $cat := .context.Params.categories }}                     
+                            #{{$cat}}
+                        {{end}}
+                    </div>
+                    <div class="post-card-primary-tag">
+                        <small>
+                            <span class="disqus-comment-count" data-disqus-url="{{ .context.Permalink }}"></span>
+                        </small>
+                    </div>
                 </header>
     
                 <section class="post-card-excerpt">
