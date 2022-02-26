@@ -11,7 +11,6 @@
         {{ end }}
     
         <div class="post-card-content">
-    
             <a class="post-card-content-link" href="{{ .context.Permalink }}">
     
                 <header class="post-card-header">
@@ -26,6 +25,8 @@
                                     #{{$cat}}
                                 {{end}}
                         </div>
+                        <span class="disqus-comment-count" data-disqus-url="{{ .context.Permalink }}"></span>
+
                 </header>
     
                 <section class="post-card-excerpt">
