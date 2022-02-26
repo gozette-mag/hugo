@@ -4,3 +4,11 @@ code.has-jax {
     border: none !important;
     font-size: 100%;
 }
+
+.post-card-comments{
+    margin:0 0 .2em;
+    color:#bababa;
+    font-size:1.2rem;
+    font-weight:500;
+    letter-spacing:.1px;
+}
