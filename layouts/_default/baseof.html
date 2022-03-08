@@ -29,6 +29,7 @@
     <link type="text/css" href="/css/custom.css" rel="stylesheet" />
 <!-- MermaidJS support -->
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.14.0/mermaid.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/intense-images/1.0.7/intense.min.js"></script>
 
     {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
 </head>
@@ -52,6 +53,14 @@
         </footer>
 
     </div>
+
+    <script type="text/javascript">
+        window.onload = function() {
+            // Intensify all images on the page.
+            var elements = document.querySelectorAll( 'img' );
+            Intense( elements );
+        }
+    </script>
 
 </body>
 </html>
