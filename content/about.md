@@ -7,7 +7,7 @@ author: Gozette
 no_author: true
 ---
 
-La Gozette est un journal qui parle de Go. 
+La Gozette est un journal francophone 100% bénévole qui parle de Go. 
 Deux grandes parties le composent : 
 - Les Gozettes qui contiennent des articles d'actualité
 - Les Dossiers qui contiennent des articles intemporels
