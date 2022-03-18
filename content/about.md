@@ -12,4 +12,4 @@ Deux grandes parties le composent :
 - Les Gozettes qui contiennent des articles d'actualité
 - Les Dossiers qui contiennent des articles intemporels
 
-Tous les articles de ce blogs sont sous la licence [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/) (Creative Commons Attribution-NonCommercial-NoDerivs 3.0)
+Tous les articles de ce blogs sont sous la licence [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) (Creative Commons Attribution-NonCommercial-NoDerivs 4.0)
