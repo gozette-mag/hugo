@@ -17,7 +17,7 @@ theme = "casper3"
   # facebook = "https://facebook.com"
   # twitter = "https://twitter.com"
   # github = "https://github.com/jonathanjanssens"
-  description = "La gozette"
+  description = ""
   mainSections = ["posts"]
 
 [menu]
