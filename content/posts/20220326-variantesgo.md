@@ -22,13 +22,13 @@ Nom : Unicolore
 Principe : Les deux joueurs utilisent exclusivement des pierres blanches. A part ça c'est du go.  
 Intérêt : Entraîne à se rappeler les coups joués au cours de la partie, demande de maintenir sa concentration pour ne pas perdre le fil.  
 Illustration :  
-https://i.imgur.com/lVu8pFP.png  
+https://i.imgur.com/lVu8pFP.png
 Une ouverture classique, qui a l'avantage ?  
   
 Nom : Go fantôme  
 Principe : On ignore où l'adversaire a placé ses pierres jusqu'à ce qu'on joue sur leur emplacement (un peu comme à la bataille navale), De plus lorsque des pierres sont mises en atari, les attaquants concernés sont révélés,
 Intérêt : Invite à se mettre dans la peau de l'adversaire pour deviner ses actions, entraîne à solidifier ses formes pour retirer tout aji, Et c'est rigolo.  
-Illustration : 
+Illustration :  
 https://i.imgur.com/mcvP2kJ.png  
 En transparent les pierres que l'adversaire n'a pas encore repéré, En physique, chaque joueur a son propre goban, de même que l'arbitre qui est le seul à avoir la vision d'ensemble.  
   
