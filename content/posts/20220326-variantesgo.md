@@ -22,7 +22,7 @@ Nom : Unicolore
 Principe : Les deux joueurs utilisent exclusivement des pierres blanches. A part ça c'est du go.  
 Intérêt : Entraîne à se rappeler les coups joués au cours de la partie, demande de maintenir sa concentration pour ne pas perdre le fil.  
 Illustration :  
-![](/img/https://i.imgur.com/lVu8pFP.png)  
+![Imgur](https://i.imgur.com/lVu8pFP.png)  
 Une ouverture classique, qui a l'avantage ?  
   
 Nom : Go fantôme  
