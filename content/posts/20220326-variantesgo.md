@@ -1,7 +1,7 @@
 ---
 title: Différentes variantes de go
 date: 2022-03-26
-author: Clément Menard
+author: Clément Menard (Whithak)
 feature_image: https://i.imgur.com/b8WBSQh.png
 categories:
   - DOSSIER
