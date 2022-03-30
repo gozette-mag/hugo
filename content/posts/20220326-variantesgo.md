@@ -18,7 +18,7 @@ Voici un site qui permet de jouer à certaines variantes citées ci-dessous : ht
 ryoka
 <!--more-->
 
-Nom : Unicolore  
+##Nom : Unicolore  
 Principe : Les deux joueurs utilisent exclusivement des pierres blanches. A part ça c'est du go.  
 Intérêt : Entraîne à se rappeler les coups joués au cours de la partie, demande de maintenir sa concentration pour ne pas perdre le fil.  
 Illustration :  
