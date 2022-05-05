@@ -1,11 +1,21 @@
 {{ $seed := "game" }}
+{{ $marklastmove := true }}
+{{ if not (eq (.Get 3) "") }}
+    {{ $marklastmove = (.Get 3) }}
+{{ end }}
 {{ $random := delimit (shuffle (split (md5 $seed) "" )) "" }}
+{{ $layout := "right_top" }}
+{{ if not (eq (.Get 2) "")}}
+    {{$layout = (.Get 2)}}
+{{end}}
 <!-- Activating a player using javascript -->
 <div id="{{(.Get 0)}}_move{{(.Get 1)}}_{{$random}}"></div>
 <script type="text/javascript">
 var elem = document.getElementById("{{(.Get 0)}}_move{{(.Get 1)}}_{{$random}}");
 var player = new WGo.BasicPlayer(elem, {
     sgf: {{(.Get 0)}},
-    move: {{(.Get 1)}}
+    move: {{(.Get 1)}},
+    markLastMove: {{$marklastmove}},
+    layout: {{$layout}}
 });
 </script>
