@@ -1,0 +1,8 @@
+{{ $seed := "game" }}
+{{ $marklastmove := true }}
+{{ if not (eq (.Get 2) "") }}
+    {{ $marklastmove = (.Get 2) }}
+{{ end }}
+{{ $random := delimit (shuffle (split (md5 $seed) "" )) "" }}
+<!-- Activating a player using javascript -->
+<div id="{{(.Get 0)}}_move{{(.Get 1)}}_{{$random}}" data-wgo-diagram="{{(.Get 0)}}" data-wgo-move="{{(.Get 1)}}"></div>
