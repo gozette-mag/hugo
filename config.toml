@@ -10,6 +10,7 @@ DefaultContentLanguage = "fr"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 disqusShortname = "gozette"
+enableEmoji = true
 
 theme = "casper3"
 
