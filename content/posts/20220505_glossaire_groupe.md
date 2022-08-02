@@ -10,6 +10,8 @@ numeros:
 draft: false
 ---
 
+
+
 Un _groupe_ est une pierre, ou un ensemble de pierres qu’on ne souhaite pas sacrifier durant la partie. 
 
 <!--more-->
